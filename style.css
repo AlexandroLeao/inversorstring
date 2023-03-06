@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: linear-gradient(120deg, #0d1561, #c75cf8);
+}
+label, input, button {
+  margin-right: 10px;
+}
+
